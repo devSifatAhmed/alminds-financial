@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #355EFC;
+    --primary: #1DB4D2;
     --secondary: #E93C05;
     --tertiary: #555555;
     --light: #DFE4FD;
@@ -222,7 +222,7 @@ h6,
 
 /*** Facts ***/
 .facts {
-    background: linear-gradient(rgba(53, 94, 252, .95), rgba(53, 94, 252, .95)), url(../img/bg.png);
+    background: linear-gradient(#22b3cdc7, #22b3cdf3), url(../img/bg.png);
 }
 
 
